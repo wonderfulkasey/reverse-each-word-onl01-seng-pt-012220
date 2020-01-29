@@ -4,5 +4,6 @@ def reverse_each_word(sentence)
   #split_sentence = sentence.split(" ")
   new_sentence = []
   array.collect do |sentence|
-  new_sentence < 
+  new_sentence << sentence_reverse
+  
 end
